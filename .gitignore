@@ -1,0 +1,16 @@
+.DS_Store
+**/.idea/
+**/node_modules/
+**/tmp.js
+**/tmp/
+**/dist/
+**/iconfont.*
+**/logs/
+**/src/conf/router/routes.js
+**/el-theme/
+**/theme/index.js
+**/theme/index.scss
+
+**/yarn-error.log
+**/package-lock.json
+**/*.log

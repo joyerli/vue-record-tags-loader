@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`屏蔽js中标签的影响 1`] = `null`;
+
+exports[`支持忽略文件 1`] = `null`;
+
+exports[`记录vue文件组件中的所有的标签 1`] = `
+Array [
+  "style",
+  "template",
+  "section",
+  "cd-panel",
+  "el-row",
+  "el-col",
+  "mkt-icon",
+  "cd-text-action",
+  "span",
+  "el-form",
+  "el-form-item",
+  "cd-input-money",
+  "div",
+  "cd-button",
+  "CdButton",
+  "md-agreement",
+  "script",
+]
+`;
